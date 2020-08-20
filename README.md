@@ -36,6 +36,17 @@
 <br />
 <br />
 
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [DARQ-Technology Powerhouse of Future](https://www.geeksforgeeks.org/darq-technology-powerhouse-of-future/)
+- [Intelligent Apps](https://www.geeksforgeeks.org/the-new-era-of-app-intelligent-apps/)
+- [Web Trends in Coming Years](https://www.geeksforgeeks.org/web-trends-in-the-coming-years/)
+- [Detecting Frauds with ML & AI](https://www.geeksforgeeks.org/detecting-frauds-with-ml-and-ai/)
+<!-- BLOG-POST-LIST:END -->
+
 [email]: mailto:sagarbapodara2000@gmail.com
 [instagram]: https://instagram.com/sagarb_
 [linkedin]: https://www.linkedin.com/in/sagar-bapodara-b2430a171/
