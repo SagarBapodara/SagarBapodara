@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[email]: sagarbapodara2000@gmail.com
+[email]: mailto:sagarbapodara2000@gmail.com
 [instagram]: https://instagram.com/sagarb_
 [linkedin]: https://www.linkedin.com/in/sagar-bapodara-b2430a171/
 
