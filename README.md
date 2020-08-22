@@ -1,4 +1,4 @@
-### Hi there, I'm Sagar Bapodara👋 [email]
+### Hi there, I'm Sagar Bapodara👋 [contact]
 
 
 ## I'm an Undergrad Engineering Student, Developer & Learner
@@ -48,6 +48,7 @@
 - [Detecting Frauds with ML & AI](https://www.geeksforgeeks.org/detecting-frauds-with-ml-and-ai/)
 <!-- BLOG-POST-LIST:END -->
 
+[contact]: mailto:sagarbapodara2000@gmail.com
 [email]: mailto:sagarbapodara2000@gmail.com
 [instagram]: https://instagram.com/sagarb_
 [linkedin]: https://www.linkedin.com/in/sagar-bapodara-b2430a171/
