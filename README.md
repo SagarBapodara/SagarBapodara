@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Web & App Development
 - 🌱 Learning everything 🤣
 - 👯 Looking Forward to collaborate & Contribute on other projects as well! 
-- 🥅 2020 Goals: Contribute more to Open Source projects/code more!
+- 🥅 2021 Goals: Contribute more to Open Source projects/code more!
 - ⚡ Fun fact: Just BEAT IT, to that your code can run as SMOOTH as MJ! 
 
 ### Connect with me:
