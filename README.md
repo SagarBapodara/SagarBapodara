@@ -7,13 +7,12 @@
 - 🌱 Learning everything 🤣
 - 👯 Looking Forward to collaborate & Contribute on other projects as well! 
 - 🥅 2021 Goals: Contribute more to Open Source projects/code more!
-- ⚡ Fun fact: Just BEAT IT, to that your code can run as SMOOTH as MJ! 
+- ⚡ Fun fact: Just BEAT IT, so that your code can run as SMOOTH as MJ! 
 
 ### Connect with me:
 
 [<img align="left" alt="Sagar Bapodara | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/minutemailer.svg" />][email]
 [<img align="left" alt="Sagar Bapodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sagar Bapodara | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -50,6 +49,5 @@
 
 [contact]: mailto:sagarbapodara2000@gmail.com
 [email]: mailto:sagarbapodara2000@gmail.com
-[instagram]: https://instagram.com/sagarb_
 [linkedin]: https://www.linkedin.com/in/sagar-bapodara-b2430a171/
 
