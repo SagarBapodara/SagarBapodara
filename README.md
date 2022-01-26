@@ -1,18 +1,16 @@
 ### Hi there, I'm Sagar Bapodara👋 [contact]
 
+## I'm Final Year Undergrad Engineering Student, Developer & Learner
 
-## I'm an Undergrad Engineering Student, Developer & Learner
-
-- 🔭 I’m currently working on Web & App Development
-- 🌱 Learning everything 🤣
-- 👯 Looking Forward to collaborate & Contribute on other projects as well! 
-- 🥅 2021 Goals: Contribute more to Open Source projects/code more!
+- 🔭 I’m currently learning and looking forward to work in Applied Machine Learning & Data Science
+- 👯 Looking forward to collaborate & contribute on other machine & deep learning projects as well! 
+- 🥅 2022 Goals: 1011100110010100111....
 - ⚡ Fun fact: Just BEAT IT, so that your code can run as SMOOTH as MJ! 
 
 ### Connect with me:
 
-[<img align="left" alt="Sagar Bapodara | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/minutemailer.svg" />][email]
-[<img align="left" alt="Sagar Bapodara | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [Email](mailto:sagarbapodara2000@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/sagar-bapodara/)
 
 <br />
 
@@ -23,13 +21,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
@@ -49,5 +43,5 @@
 
 [contact]: mailto:sagarbapodara2000@gmail.com
 [email]: mailto:sagarbapodara2000@gmail.com
-[linkedin]: https://www.linkedin.com/in/sagar-bapodara-b2430a171/
+[linkedin]: https://www.linkedin.com/in/sagar-bapodara/
 
