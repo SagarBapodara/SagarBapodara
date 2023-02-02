@@ -1,9 +1,9 @@
 ### Hi there, I'm Sagar Bapodara👋 [contact]
 
-## I'm an Engineering Passout, Developer & Learner
+## I'm a Masters Computer Engineering Student, Developer & Learner based in :canada:
 
 # 💫 About Me:
-🔭 I’m currently learning and looking forward to work in Applied Machine Learning & Data Science<br>👯 Looking forward to collaborate & contribute on other machine & deep learning projects as well!<br>🥅 2022 Goals: 1011100110010100111....<br>⚡ Fun fact: Just BEAT IT, so that your code can run as SMOOTH as MJ!
+🔭 I’m currently learning and looking forward to work in Applied Machine Learning & Data Science<br>👯 Looking forward to collaborate & contribute on other machine & deep learning projects as well!<br>🥅 2023 Goals: 1011100110010100111....<br>⚡ Fun fact: Just BEAT IT, so that your code can run as SMOOTH as MJ!
 
 ### Connect with me:
 
